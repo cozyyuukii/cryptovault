@@ -59,7 +59,7 @@ Follow these steps to set up the project locally on your machine.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/cryptovault.git](https://github.com/your-username/cryptovault.git)
+    git clone [https://github.com/cozyyuukii/cryptovault.git](https://github.com/cozyyuukii/cryptovault.git)
     cd cryptovault
     ```
 
@@ -113,7 +113,7 @@ This project is open source and available under the [MIT License](https://www.go
 ---
 
 <div align="center">
-<sub>Built with :blue_heart: by <a href="https://www.google.com/search?q=https://github.com/your-username">Your Name</a></sub>
+<sub>Built with :blue_heart: by <a href="https://www.google.com/search?q=https://github.com/your-username">Your Yuukii</a></sub>
 </div>
 
 ```
